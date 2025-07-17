@@ -17,6 +17,10 @@ I'm a data analyst with experience in SQL, Python, R, Power BI, Tableau, and Exc
 | [Data_Dashboards_Excel](https://github.com/DRANK1999/Data_Projects_Excel.git) | Step-by-step dashboard creation process of several projects | Excel |
 | [Workshop-Data-Analytics-Bootcamp](https://github.com/DRANK1999/Workshop-Data-Analytics-Bootcamp.git) | Repository of various projects completed in Python and Excel during the CSI Data Analytics Bootcamp | Python, Excel |
 
+## 📚 Publications
+
+- **Nuevos Aportes a la Economía (2024)** — A book published as part of my undergraduate thesis work, recognized among the top five of the year. Available [here](https://iie-puce.com/nuevos_aportes_economia/nuevos-aportes-a-la-economia/).
+
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/diego-sebasti%C3%A1n-pozo-cisneros-367371192/)
 - [Email](diego_pozo1999@hotmail.com)
