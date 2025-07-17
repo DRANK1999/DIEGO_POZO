@@ -19,7 +19,7 @@ I'm a data analyst with experience in SQL, Python, R, Power BI, Tableau, and Exc
 
 ## 📚 Publications
 
-- **Nuevos Aportes a la Economía (2024)** — A book published as part of my undergraduate thesis work, recognized among the top five of the year. Available [here](https://iie-puce.com/nuevos_aportes_economia/nuevos-aportes-a-la-economia/).
+- **Nuevos Aportes a la Economía (2024)** — A book published as part of my undergraduate thesis work for my Economics Bachelor's Degree, recognized among the top five of the year. Available [here](https://iie-puce.com/nuevos_aportes_economia/nuevos-aportes-a-la-economia/).
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/diego-sebasti%C3%A1n-pozo-cisneros-367371192/)
