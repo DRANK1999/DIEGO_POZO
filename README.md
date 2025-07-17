@@ -1,6 +1,7 @@
 # 👋 Hi there! I'm Diego Pozo
 
-I'm a data analyst with experience in SQL, Python, R, Power BI, Tableau, and Excel. As part of my data analytics certification, I completed a capstone project focused on hospital cost analysis. I've also worked on other projects related to revenue prediction and data visualization.
+I'm a data analyst with experience in SQL, Python, R, Power BI, Tableau, and Excel. I hold a Bachelor's Degree in Economics from the Pontificia Universidad Católica del Ecuador and completed the Data Analytics program at the College of Staten Island. I've worked on projects related to revenue prediction, data visualization, and business reporting, and I have a published academic book based on my undergraduate thesis in Economics.
+
 
 ## 🧰 Tools & Technologies:
 - SQL (SQLite, PostgreSQL)
