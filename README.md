@@ -13,7 +13,7 @@ I'm a data analyst with experience in SQL, Python, R, Power BI, Tableau, and Exc
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Hospital Cost Analysis](https://github.com/yourusername/hospital-cost-analysis) | Department-level cost analysis using simulated hospital data | SQL, Tableau |
+| [Hospital Cost Analysis](https://github.com/DRANK1999/Capstone_Project.git) | Department-level cost analysis using simulated hospital data | SQL, Tableau |
 | [Data_Dashboards_Excel](https://github.com/DRANK1999/Data_Projects_Excel.git) | Step-by-step dashboard creation process of several projects | Excel |
 | [Workshop-Data-Analytics-Bootcamp](https://github.com/DRANK1999/Workshop-Data-Analytics-Bootcamp.git) | Repository of various projects completed in Python and Excel during the CSI Data Analytics Bootcamp | Python, Excel |
 
